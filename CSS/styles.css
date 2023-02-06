@@ -1,0 +1,168 @@
+/* .left-image {
+  position: relative;
+} */
+/* / */
+h1 {
+  margin: 0px;
+  /* text-align: center; */
+  font-family: 'Prompt', sans-serif;
+  font-size: 1.8rem;
+  letter-spacing: 3px;
+  line-height: 30px;
+}
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 3px
+}
+h3 {
+  font-family: 'Prompt', sans-serif;
+  font-size: 1.3rem;
+  letter-spacing: 1px
+}
+h4 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 2px
+}
+h5 {
+  margin: 0px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.8rem;
+  letter-spacing: 3px;
+  line-height: 30px;
+  font-style: white;
+}
+
+
+
+.red {
+  /* margin: 0 0 auto; */
+  /* margin: white; */
+  border-radius: 0px 0px 100px 0px;
+  background-color: #735F32;
+  height: 200px;
+  width: 100px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: solid 6px #F9F9F9;
+}
+.green {
+  /* border-radius: 100px 0px; */
+  border-radius:  0px 100px  100px 0px;
+  background-color: #F2921D;
+  height: 820px;
+  width: 300px;
+  position: absolute;
+  top: 150px;
+  left: 35px;
+
+}
+.TextA4 {
+  /* border-radius: 100px 0px; */
+  /* border-radius: 50px 0px 100px 0px; */
+  background-color: #F9F9F9;
+  height: 950px;
+  width: 400px;
+  position: absolute;
+  top: 35px;
+  left: 360px;
+ 
+}
+.green2 {
+  position: absolute;
+  top: 180px;
+  left: 35px;
+  color: black;
+}
+.A4 {
+  height: 1000px;
+  width: 800px;
+  background-color: #F9F9F9;
+  position: absolute;
+  /* top: 20px; */
+  left: 20%;
+}
+.profile {
+  border-radius: 150px ;
+  border: solid 6px #F9F9F9;
+  height: 180px;
+  position: absolute;
+  top: 20px;
+  left: 64px;
+  transition: 0.5s;
+}
+
+
+.profile:hover {
+  border-radius: 170px ;
+  border: solid 8px #735F32;
+  height: 190px;
+  position: absolute;
+  top: 10px;
+  left: 67px;
+  transition: 0.5s;
+
+}
+
+
+/* .left-image h2 {
+  position: absolute;
+  bottom: 0;
+  left: 1rem;
+} */
+.Ps{
+
+  width: 120px;
+  height: 70px;
+  transition: 0.5s;
+}
+
+.Ps:hover{
+  width: 130px;
+  height: 80px;
+  transition: 0.5s;
+
+}
+.Ol{
+  width: 66px;
+  height: 62px;
+  transition: 0.5s;
+}
+.Ol:hover{
+  width: 70px;
+  height: 70px;
+  transition: 0.5s;
+
+}
+
+.Mt {
+  width: 200px;
+  height: 180px;
+  transition: 0.5s;
+}
+.Mt:hover{
+  width: 210px;
+  height: 190px;
+  transition: 0.5s;
+}
+
+.Seven {
+  width: 200px;
+  height: 180px;
+  transition: 0.5s;
+}
+.Seven:hover{
+  width: 210px;
+  height: 190px;
+  transition: 0.5s;
+}
+
+
+.But{
+  background-color: #fff;
+  border: 2px solid #F2921D;
+  margin-left: 80px;
+  margin-right: 69px;
+}
